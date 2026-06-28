@@ -24,6 +24,7 @@
 
 #notes_container.right-align #pocket-editor {
     text-align: right;
+    direction: rtl;
 }
 
 #pocket-editor {
